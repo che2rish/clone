@@ -1,0 +1,9 @@
+/* 공통 속성 */
+body{
+    background-color: pink;
+}
+
+/* 모든 것?? -> css선택자 */
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
